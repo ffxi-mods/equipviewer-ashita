@@ -1,3 +1,7 @@
+# DEPRECATED
+
+There is a newer Ashita plugin version of `Equipviewer` available: https://github.com/ProjectTako/ffxi-addons/tree/master/equipviewer
+
 # EquipViewer
 
 Original EquipViewer repo: https://github.com/ProjectTako/ffxi-addons/tree/master/equipviewer
